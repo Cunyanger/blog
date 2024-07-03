@@ -1,3 +1,9 @@
+## 官方文档
+
+[首页 | VuePress (vuejs.press)](https://vuejs.press/zh/)
+
+
+
 ## git使用SSH连接仓库
 
 1. ssh连接github需要修改设置 ` ~/.ssh/config`
@@ -16,6 +22,8 @@ IdentityFile <path to your private ssh key>
 ```shell 
 ssh -T -p 443 git@ssh.github.com
 ```
+
+
 
 ## 修改配置文件
 
