@@ -4,6 +4,8 @@
 
 [主页 | vuepress-theme-hope](https://theme-hope.vuejs.press/zh/)
 
+https://cunyanger.github.io/blog/
+
 ## 项目结构
 
 ```
