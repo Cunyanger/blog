@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: house
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+title: Home
+heroImage: /logo.png
+heroText: 阿阳妙妙屋
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 我们得说点什么奇妙的小基霸话儿~
 projects:
   - icon: folder-open
     name: 项目名称
