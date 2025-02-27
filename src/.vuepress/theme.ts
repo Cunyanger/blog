@@ -5,7 +5,7 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://cunyanger.github.io/blog/",
-  favicon:"/favicon.ico",
+  favicon:"/favicon.svg",
   author: {
     name: "Cunyanger",
     url: "https://mister-hope.com",
@@ -33,18 +33,14 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    description: "现实的理想主义者",
     intro: "/intro.html",
     medias: {
-      Email: "mailto:info@example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Gmail: "mailto:info@example.com",
-      QQ: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
       Wechat: "https://example.com",
-      Weibo: "https://example.com",
+      Gmail: "mailto:cunyanger@outlook.com",
+      GitHub: "https://github.com/Cunyanger",
+      Steam: "https://example.com",
+      
       
     },
   },

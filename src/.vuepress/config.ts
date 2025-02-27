@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/blog/",
 
   lang: "zh-CN",
-  title: "Cunyanger",
+  title: "Yanger's Blog",
   description: "阿阳妙妙屋",
   
   theme,

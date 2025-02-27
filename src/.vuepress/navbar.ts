@@ -2,16 +2,34 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/demo/",
+  "/cyber/",
   {
-    text: "博文",
-    icon: "pen-to-square",
-    prefix: "/posts/",
+    text: "简语集文",
+    icon: "book",
+    prefix: "/notes/",
     children: [
       {
-        text: "苹果",
+        text: "专业",
         icon: "pen-to-square",
-        prefix: "apple/",
+        prefix: "software/",
+        children: [
+          { text: "人月神话", icon: "pen-to-square", link: "The Mythical Man-Month" },
+          { text: "Head First设计模式", icon: "pen-to-square", link: "2" },
+          { text: "计算机网络：自顶向下方法", icon: "pen-to-square", link: "2" },
+          { text: "On Java 8", icon: "pen-to-square", link: "2" },
+          { text: "Effective Java", icon: "pen-to-square", link: "2" },
+          { text: "SQL 反模式", icon: "pen-to-square", link: "2" },
+          { text: "敏捷软件开发：原则、模式与实践", icon: "pen-to-square", link: "2" },
+          { text: "JavaScript高级程序设计", icon: "pen-to-square", link: "2" },
+          { text: "JavaScript权威指南", icon: "pen-to-square", link: "2" },
+          { text: "鸟哥的Linux私房菜", icon: "pen-to-square", link: "2" },
+          "4",
+        ],
+      },
+      {
+        text: "社科",
+        icon: "pen-to-square",
+        prefix: "social_sciences/",
         children: [
           { text: "苹果1", icon: "pen-to-square", link: "1" },
           { text: "苹果2", icon: "pen-to-square", link: "2" },
@@ -20,33 +38,21 @@ export default navbar([
         ],
       },
       {
-        text: "香蕉",
+        text: "文学",
         icon: "pen-to-square",
-        prefix: "banana/",
+        prefix: "literature/",
         children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
+          { text: "苹果1", icon: "pen-to-square", link: "1" },
+          { text: "苹果2", icon: "pen-to-square", link: "2" },
           "3",
           "4",
         ],
       },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
       { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
       "tomato",
       "strawberry",
     ],
   },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+  "/website"
+  
 ]);
