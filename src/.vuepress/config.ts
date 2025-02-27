@@ -8,7 +8,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "Cunyanger",
   description: "阿阳妙妙屋",
-
+  
   theme,
 
   // 和 PWA 一起启用

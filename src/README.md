@@ -6,7 +6,9 @@ title: Home
 heroImage: /logo.png
 heroText: 阿阳妙妙屋
 heroFullScreen: true
-tagline: 我们得说点什么奇妙的小基霸话儿~
+bgImage: https://cdn.jsdelivr.net/gh/Cunyanger/pic_bed@master/bg_mor_stu.png
+bgImageDark: https://cdn.jsdelivr.net/gh/Cunyanger/pic_bed@master/bg_nig_stu.png
+tagline: 岂能尽如人意，但求无愧于心
 projects:
   - icon: folder-open
     name: 项目名称
