@@ -1,12 +1,51 @@
 ---
-title: Markdown 展示
+title: Vuepress 框架使用
 icon: fa6-brands:markdown
-order: 2
+order: 1
 category:
   - 使用指南
 tag:
   - Markdown
 ---
+
+# 布局
+
+```markdown
+---
+title: 布局
+icon: object-group
+order: 2
+category:
+  - 指南
+tag:
+  - 布局
+
+---
+
+布局包括:
+
+- [导航栏](https://theme-hope.vuejs.press/zh/guide/layout/navbar.html)
+- [侧边栏](https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html)
+- [页脚](https://theme-hope.vuejs.press/zh/guide/layout/footer.html)
+
+同时每个页面包含:
+
+- [路径导航](https://theme-hope.vuejs.press/zh/guide/layout/breadcrumb.html)
+- [标题和页面信息](https://theme-hope.vuejs.press/zh/guide/feature/page-info.html)
+- [TOC (文章标题列表)](https://theme-hope.vuejs.press/zh/guide/layout/page.html#标题列表)
+- [贡献者、更新时间等页面元信息](https://theme-hope.vuejs.press/guide/feature/meta.html)
+- [评论](https://theme-hope.vuejs.press/zh/guide/feature/comment.html)
+
+主题也带有以下元素:
+
+- [夜间模式按钮](https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html)
+- [返回顶部按钮](https://theme-hope.vuejs.press/guide/interface/others.html#返回顶部按钮)
+- [打印按钮](https://theme-hope.vuejs.press/guide/interface/others.html#打印按钮)
+
+你可以在主题选项和页面的 frontmatter 中自定义它们。
+```
+
+# Markdown
 
 VuePress 主要从 Markdown 文件生成页面。因此，你可以使用它轻松生成文档或博客站点。
 
@@ -321,3 +360,73 @@ npm i -D vuepress-theme-hope
 <iframe src="https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html" width="100%" height="420"/>
 
 - [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/content/revealjs.html)
+
+# 布局与功能禁用
+
+```markdown
+---
+title: 布局与功能禁用
+icon: gears
+order: 4
+category:
+  - 使用指南
+tag:
+  - 禁用
+
+navbar: false
+sidebar: false
+
+breadcrumb: false
+pageInfo: false
+contributors: false
+editLink: false
+lastUpdated: false
+prev: false
+next: false
+comment: false
+footer: false
+
+backtotop: false
+
+---
+
+你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。
+
+<!-- more -->
+
+本页面就是一个示例，禁用了如下功能:
+
+- 导航栏
+- 侧边栏
+- 路径导航
+- 页面信息
+- 贡献者
+- 编辑此页链接
+- 更新时间
+- 上一篇/下一篇 链接
+- 评论
+- 页脚
+- 返回顶部按钮
+```
+
+# 加密
+
+```markdown
+---
+icon: lock
+category:
+  - 使用指南
+tag:
+  - 加密
+
+---
+
+# 密码加密的文章
+
+实际的文章内容。
+
+段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。
+
+段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。
+```
+

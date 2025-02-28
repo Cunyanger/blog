@@ -1,7 +1,7 @@
 ---
 home: true
 layout: BlogHome
-icon: house
+icon: noto:house
 title: Home
 heroImage: /logo.png
 heroText: 阿阳妙妙屋
@@ -12,4 +12,3 @@ tagline: 岂能尽如人意，但求无愧于心
 
 footer: 这并非终点，一切才刚刚开始...
 ---
-
