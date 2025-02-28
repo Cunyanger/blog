@@ -1,5 +1,4 @@
-<template><div><h2 id="" tabindex="-1"><a class="header-anchor" href="#"><span></span></a></h2>
-<table>
+<template><div><table>
 <thead>
 <tr>
 <th>工具类</th>
@@ -9,11 +8,11 @@
 <tbody>
 <tr>
 <td><a href="https://www.coderjia.cn/archives/dba3f94c-a021-468a-8ac6-e840f85867ea" target="_blank" rel="noopener noreferrer">https://www.coderjia.cn/archives/dba3f94c-a021-468a-8ac6-e840f85867ea</a></td>
-<td>Docker国内镜像源</td>
+<td>Docker 国内镜像源</td>
 </tr>
 <tr>
 <td><a href="https://pixpinapp.com/" target="_blank" rel="noopener noreferrer">https://pixpinapp.com/</a></td>
-<td>Pinpix截图</td>
+<td>Pinpix 截图</td>
 </tr>
 <tr>
 <td><a href="https://www.beijingtime.com.cn/" target="_blank" rel="noopener noreferrer">https://www.beijingtime.com.cn/</a></td>
@@ -25,7 +24,7 @@
 </tr>
 <tr>
 <td><a href="https://www.cnblogs.com/jopny/p/window_office_onekey_activate_free.html" target="_blank" rel="noopener noreferrer">https://www.cnblogs.com/jopny/p/window_office_onekey_activate_free.html</a></td>
-<td>IDEA激活</td>
+<td>IDEA 激活</td>
 </tr>
 <tr>
 <td>Plugin://tools/qrcode</td>
@@ -36,16 +35,19 @@
 <td>时间表达式</td>
 </tr>
 <tr>
-<td><a href="https://gh.api.99988866.xyz/" target="_blank" rel="noopener noreferrer">https://gh.api.99988866.xyz/</a></td>
-<td>Github加速</td>
+<td><a href="https://github.akams.cn/" target="_blank" rel="noopener noreferrer">Github Proxy 文件代理加速</a></td>
+<td>Github 下载加速</td>
 </tr>
 <tr>
 <td><a href="https://greasyfork.org/zh-CN" target="_blank" rel="noopener noreferrer">https://greasyfork.org/zh-CN</a></td>
 <td>油猴脚本</td>
 </tr>
+<tr>
+<td><a href="https://piclist.cn/" target="_blank" rel="noopener noreferrer">PicList</a></td>
+<td>PicGo 升级</td>
+</tr>
 </tbody>
 </table>
-<h2 id="-1" tabindex="-1"><a class="header-anchor" href="#-1"><span></span></a></h2>
 <table>
 <thead>
 <tr>
@@ -60,7 +62,7 @@
 </tr>
 <tr>
 <td><a href="https://icon-sets.iconify.design/" target="_blank" rel="noopener noreferrer">Iconify - home of open source icons</a></td>
-<td>Vuepress默认图标库</td>
+<td>Vuepress 默认图标库</td>
 </tr>
 <tr>
 <td></td>
@@ -76,7 +78,6 @@
 </tr>
 </tbody>
 </table>
-<h2 id="-2" tabindex="-1"><a class="header-anchor" href="#-2"><span></span></a></h2>
 <table>
 <thead>
 <tr>
@@ -91,7 +92,7 @@
 </tr>
 <tr>
 <td><a href="http://www.wmdz.com" target="_blank" rel="noopener noreferrer">http://www.wmdz.com</a></td>
-<td>电视盒子APP</td>
+<td>电视盒子 APP</td>
 </tr>
 <tr>
 <td><a href="https://www.anyknew.com/#/" target="_blank" rel="noopener noreferrer">https://www.anyknew.com/#/</a></td>
@@ -130,7 +131,7 @@
 </tr>
 <tr>
 <td><a href="https://ttt1.youxuan.wiki/#/plan" target="_blank" rel="noopener noreferrer">https://ttt1.youxuan.wiki/#/plan</a></td>
-<td>优选机场，活动9.9两年 质量不太好</td>
+<td>优选机场，活动 9.9 两年 质量不太好</td>
 </tr>
 <tr>
 <td><a href="https://xn--4gq62f.org/" target="_blank" rel="noopener noreferrer">https://一元.org/</a></td>

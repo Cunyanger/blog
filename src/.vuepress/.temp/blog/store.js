@@ -1,1 +1,1 @@
-export const store = JSON.parse("[\"/website.html\",\"/cyber/page.html\",\"/cyber/\",\"/cyber/vuepress.html\",\"/notes/software/4.html\",\"/notes/literature/2.html\",\"/notes/software/2.html\",\"/notes/social_sciences/2.html\",\"/notes/literature/1.html\",\"/notes/software/The%20Mythical%20Man-Month.html\",\"/notes/social_sciences/1.html\",\"/intro.html\"]");
+export const store = JSON.parse("[\"/website.html\",\"/cyber/page.html\",\"/cyber/\",\"/cyber/vuepress.html\",\"/notes/software/The%20Mythical%20Man-Month.html\",\"/intro.html\"]");

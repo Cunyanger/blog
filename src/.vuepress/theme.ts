@@ -8,11 +8,11 @@ export default hopeTheme({
   favicon:"/favicon.svg",
   author: {
     name: "Cunyanger",
-    url: "https://mister-hope.com",
+    url: "https://cunyanger.github.io/blog/",
   },
   logo: "/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/Cunyanger/blog",
 
   docsDir: "src",
 
