@@ -1,13 +1,13 @@
-<template><div><p>github作为云存储，jsDeliv作为CDN，PicGo充作为图片git push工具</p>
+<template><div><p>github 作为云存储，jsDeliv 作为 CDN，PicGo 充作为图片 git push 工具</p>
 <!-- more -->
 <h2 id="github" tabindex="-1"><a class="header-anchor" href="#github"><span>Github</span></a></h2>
 <p><a href="https://link.zhihu.com/?target=https%3A//github.com/" target="_blank" rel="noopener noreferrer">https://github.com/</a></p>
-<h3 id="新建repository" tabindex="-1"><a class="header-anchor" href="#新建repository"><span>新建Repository</span></a></h3>
-<p>可以创建一个<code v-pre>images</code>文件夹，在CDN中图片所在项目目录填写<code v-pre>images</code></p>
+<h3 id="新建-repository" tabindex="-1"><a class="header-anchor" href="#新建-repository"><span>新建 Repository</span></a></h3>
+<p>可以创建一个<code v-pre>images</code>文件夹，在 CDN 中图片所在项目目录填写<code v-pre>images</code></p>
 <h3 id="创建访问令牌" tabindex="-1"><a class="header-anchor" href="#创建访问令牌"><span>创建访问令牌</span></a></h3>
 <p><strong>Settings</strong> --&gt; <strong>Developer settings</strong>--&gt; <strong>Personal access tokens</strong> --&gt; <strong>New personal access token</strong> --&gt; <strong>copy token</strong></p>
 <div class="hint-container tip">
-<p class="hint-container-title">token权限</p>
+<p class="hint-container-title">token 权限</p>
 <ul>
 <li>打开所有权限</li>
 </ul>
@@ -18,8 +18,8 @@
 <h2 id="picgo" tabindex="-1"><a class="header-anchor" href="#picgo"><span>PicGo</span></a></h2>
 <hr>
 <h2 id="遇到问题" tabindex="-1"><a class="header-anchor" href="#遇到问题"><span>遇到问题</span></a></h2>
-<p>使用代理可能出现picGo上传图片失败的情况，需要关闭代理上传文件</p>
-<p>可以使用PicList删除云端的图片，PicGo能删除云端图片，会出现图片名重复的问题</p>
+<p>使用代理可能出现 picGo 上传图片失败的情况，需要关闭代理上传文件</p>
+<p>可以使用 PicList 删除云端的图片，PicGo 能删除云端图片，会出现图片名重复的问题</p>
 </div></template>
 
 

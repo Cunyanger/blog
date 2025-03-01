@@ -1,1 +1,1 @@
-export const sidebarData = {"/cyber/":["vuepress","page"]};
+export const sidebarData = {"/cyber/":["vuepress","obsidian","picbed"]};

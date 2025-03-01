@@ -1,3 +1,16 @@
-import comp from "D:/WorkSpace/MySpace/blog_theme/src/.vuepress/.temp/pages/cyber/page.html.vue"
-const data = JSON.parse("{\"path\":\"/cyber/page.html\",\"title\":\"Github+PicGo搭建图床\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Github+PicGo搭建图床\",\"cover\":\"/assets/images/cover1.jpg\",\"icon\":\"file\",\"order\":0,\"category\":[\"使用指南\"],\"tag\":[\"博客\",\"图床\"],\"sticky\":true,\"star\":true,\"description\":\"github作为云存储，jsDeliv作为CDN，PicGo充作为图片git push工具\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://cunyanger.github.io/blog/blog/cyber/page.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Yanger's Blog\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Github+PicGo搭建图床\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"github作为云存储，jsDeliv作为CDN，PicGo充作为图片git push工具\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:image\",\"content\":\"https://cunyanger.github.io/blog/blog/assets/images/cover1.jpg\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2025-02-27T11:05:28.000Z\"}],[\"meta\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"meta\",{\"name\":\"twitter:image:src\",\"content\":\"https://cunyanger.github.io/blog/blog/assets/images/cover1.jpg\"}],[\"meta\",{\"name\":\"twitter:image:alt\",\"content\":\"Github+PicGo搭建图床\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"博客\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"图床\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2025-02-27T11:05:28.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"Github+PicGo搭建图床\\\",\\\"image\\\":[\\\"https://cunyanger.github.io/blog/blog/assets/images/cover1.jpg\\\"],\\\"dateModified\\\":\\\"2025-02-27T11:05:28.000Z\\\",\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"Cunyanger\\\",\\\"url\\\":\\\"https://cunyanger.github.io/blog/\\\"}]}\"]]},\"git\":{\"createdTime\":1740654328000,\"updatedTime\":1740654328000,\"contributors\":[{\"name\":\"cunyanger\",\"username\":\"cunyanger\",\"email\":\"cunyanger@outlook.com\",\"commits\":1,\"url\":\"https://github.com/cunyanger\"}]},\"readingTime\":{\"minutes\":0.95,\"words\":286},\"filePathRelative\":\"cyber/page.md\",\"localizedDate\":\"2025年2月27日\",\"excerpt\":\"<p>github作为云存储，jsDeliv作为CDN，PicGo充作为图片git push工具</p>\\n\",\"autoDesc\":true}")
+import comp from "D:/WorkSpace/MyTest/blog/blog/src/.vuepress/.temp/pages/cyber/page.html.vue"
+const data = JSON.parse("{\"path\":\"/cyber/page.html\",\"title\":\"Github+PicGo搭建图床\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Github+PicGo搭建图床\",\"cover\":null,\"icon\":\"mdi:image-multiple-outline\",\"order\":0,\"category\":[\"使用指南\"],\"tag\":[\"博客\",\"图床\"],\"sticky\":true,\"star\":true,\"gitInclude\":[],\"description\":\"github 作为云存储，jsDeliv 作为 CDN，PicGo 充作为图片 git push 工具\"},\"readingTime\":{\"minutes\":0.96,\"words\":288},\"filePathRelative\":\"cyber/page.md\",\"excerpt\":\"<p>github 作为云存储，jsDeliv 作为 CDN，PicGo 充作为图片 git push 工具</p>\\n\",\"autoDesc\":true}")
 export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

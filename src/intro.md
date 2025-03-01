@@ -1,8 +1,14 @@
 ---
-icon: circle-info
-cover: /assets/images/cover3.jpg
+icon: mdi:account
+cover: 
 ---
 
-# 介绍页
+# 个人介绍
 
-将你的个人介绍和档案放置在此处。
+
+
+## 工作经历
+
+是
+
+## 项目经历

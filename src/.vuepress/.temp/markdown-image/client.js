@@ -1,2 +1,2 @@
-import "D:/WorkSpace/MySpace/blog_theme/node_modules/@vuepress/plugin-markdown-image/lib/client/styles/figure.css"
+import "D:/WorkSpace/MyTest/blog/blog/node_modules/@vuepress/plugin-markdown-image/lib/client/styles/figure.css"
 

@@ -1,7 +1,7 @@
-import { hasGlobalComponent } from "D:/WorkSpace/MySpace/blog_theme/node_modules/@vuepress/helper/lib/client/index.js";
-import { useScriptTag } from "D:/WorkSpace/MySpace/blog_theme/node_modules/@vueuse/core/index.mjs";
+import { hasGlobalComponent } from "D:/WorkSpace/MyTest/blog/blog/node_modules/@vuepress/helper/lib/client/index.js";
+import { useScriptTag } from "D:/WorkSpace/MyTest/blog/blog/node_modules/@vueuse/core/index.mjs";
 import { h } from "vue";
-import { VPIcon } from "D:/WorkSpace/MySpace/blog_theme/node_modules/@vuepress/plugin-icon/lib/client/index.js"
+import { VPIcon } from "D:/WorkSpace/MyTest/blog/blog/node_modules/@vuepress/plugin-icon/lib/client/index.js"
 
 export default {
   enhance: ({ app }) => {

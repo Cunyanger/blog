@@ -1,17 +1,17 @@
-import { Layout, NotFound, injectDarkMode, setupDarkMode, setupSidebarItems, scrollPromise } from "D:/WorkSpace/MySpace/blog_theme/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { Layout, NotFound, injectDarkMode, setupDarkMode, setupSidebarItems, scrollPromise } from "D:/WorkSpace/MyTest/blog/blog/node_modules/vuepress-theme-hope/lib/bundle/export.js";
 
-import { defineCatalogInfoGetter } from "D:/WorkSpace/MySpace/blog_theme/node_modules/@vuepress/plugin-catalog/lib/client/index.js"
+import { defineCatalogInfoGetter } from "D:/WorkSpace/MyTest/blog/blog/node_modules/@vuepress/plugin-catalog/lib/client/index.js"
 import { h } from "vue"
 import { resolveComponent } from "vue"
-import { BlogCategory, BlogHome, BlogType, BloggerInfo, SocialMedias, Timeline, setupBlog } from "D:/WorkSpace/MySpace/blog_theme/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/export.js";
-import "D:/WorkSpace/MySpace/blog_theme/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/styles/all.scss";
-import { GlobalEncrypt, LocalEncrypt } from "D:/WorkSpace/MySpace/blog_theme/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
-import "D:/WorkSpace/MySpace/blog_theme/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
+import { BlogCategory, BlogHome, BlogType, BloggerInfo, SocialMedias, Timeline, setupBlog } from "D:/WorkSpace/MyTest/blog/blog/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/export.js";
+import "D:/WorkSpace/MyTest/blog/blog/node_modules/vuepress-theme-hope/lib/bundle/modules/blog/styles/all.scss";
+import { GlobalEncrypt, LocalEncrypt } from "D:/WorkSpace/MyTest/blog/blog/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
+import "D:/WorkSpace/MyTest/blog/blog/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
 
-import "D:/WorkSpace/MySpace/blog_theme/node_modules/@vuepress/helper/lib/client/styles/colors.css";
-import "D:/WorkSpace/MySpace/blog_theme/node_modules/@vuepress/helper/lib/client/styles/normalize.css";
-import "D:/WorkSpace/MySpace/blog_theme/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
-import "D:/WorkSpace/MySpace/blog_theme/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
+import "D:/WorkSpace/MyTest/blog/blog/node_modules/@vuepress/helper/lib/client/styles/colors.css";
+import "D:/WorkSpace/MyTest/blog/blog/node_modules/@vuepress/helper/lib/client/styles/normalize.css";
+import "D:/WorkSpace/MyTest/blog/blog/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
+import "D:/WorkSpace/MyTest/blog/blog/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
 
 defineCatalogInfoGetter((meta) => {
   const title = meta.title;
