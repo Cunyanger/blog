@@ -52,6 +52,8 @@ github作为云存储，jsDeliv作为CDN，PicGo充作为图片git push工具
 
 ·https://cdn.jsdelivr.net/gh/github用户名/仓库名称@分支/图片所在项目目录·
 
+速度慢使用替换域名
+
 ## PicGo
 
 ---

@@ -10,7 +10,7 @@ export default hopeTheme({
     name: "Cunyanger",
     url: "https://cunyanger.github.io/blog/",
   },
-  logo: "/logo.png",
+  logo: "https://gcore.jsdelivr.net/gh/Cunyanger/pic_bed@master/images/ss0_bng.png",
 
   repo: "https://github.com/Cunyanger/blog",
 
