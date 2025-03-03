@@ -33,7 +33,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "现实的理想主义者",
+    description: "拥有从来是侥幸，人生起落是无常",
     intro: "/intro.html",
     medias: {
       Wechat: "https://example.com",
@@ -48,9 +48,9 @@ export default hopeTheme({
   // 加密配置
   encrypt: {
     config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
+      "/intro.html": {
+        hint: "我的名字",
+        password: "wangchunyang",
       },
     },
   },
