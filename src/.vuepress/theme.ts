@@ -36,12 +36,10 @@ export default hopeTheme({
     description: "拥有从来是侥幸，人生起落是无常",
     intro: "/intro.html",
     medias: {
-      Wechat: "https://example.com",
+      Wechat: "weixin://contacts/profile/cunyanger666",
       Gmail: "mailto:cunyanger@outlook.com",
       GitHub: "https://github.com/Cunyanger",
       Steam: "https://example.com",
-      
-      
     },
   },
 

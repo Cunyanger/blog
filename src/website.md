@@ -24,18 +24,20 @@ sticky: true
 | https://pixpinapp.com/                                       | Pinpix 截图       |
 | https://www.beijingtime.com.cn/                              | 北京时间          |
 | https://next.itellyou.cn/                                    | 官方镜像下载      |
-| https://www.cnblogs.com/jopny/p/window_office_onekey_activate_free.html | IDEA 激活         |
-| https://cron.qqe2.com/                                       | 时间表达式        |
 | [Github Proxy 文件代理加速](https://github.akams.cn/)        | Github 下载加速   |
 | https://greasyfork.org/zh-CN                                 | 油猴脚本          |
 | [PicList](https://piclist.cn/)                               | PicGo 升级        |
+| https://www.cnblogs.com/jopny/p/window_office_onekey_activate_free.html | Windows 激活      |
+|                                                              |                   |
 
 
 
-| 素材类                                                       |                     |
-| ------------------------------------------------------------ | ------------------- |
-| [图标库 v5 - FontAwesome 字体图标中文 Icon](https://fontawesome.com.cn/v5) |                     |
-| [Iconify - home of open source icons](https://icon-sets.iconify.design/) | Vuepress 默认图标库 |
+| 素材类                                                       |                                          |
+| ------------------------------------------------------------ | ---------------------------------------- |
+| [图标库 v5 - FontAwesome 字体图标中文 Icon](https://fontawesome.com.cn/v5) |                                          |
+| [Iconify - home of open source icons](https://icon-sets.iconify.design/) | Vuepress 默认图标库                      |
+| https://www.toptal.com/designers/subtlepatterns/             | Free textures for your next web project] |
+| [ByteDance IconPark](https://iconpark.oceanengine.com/home)  | 字节跳动官方素材库                       |
 
 
 
@@ -57,3 +59,24 @@ sticky: true
 | https://xn--4gq62f.org/          | 一元机场，中规中矩                 |
 | https://mojie.app/               | 魔戒比较稳定，包流量               |
 | https://docs.sakura-cat.club/    | 樱花猫，稳定但贵                   |
+
+| 开发                                                         |                              |
+| ------------------------------------------------------------ | ---------------------------- |
+| [Maven Repository: Search/Browse/Explore](https://mvnrepository.com/) | Maven仓库                    |
+| [阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区](https://developer.aliyun.com/mirror/) |                              |
+| [makeapie echarts社区图表可视化案例](https://www.makeapie.cn/echarts?queryStr=3D) | 可视化社区，大屏echart素材   |
+| [JetBrains产品激活码 正版IDE激活码 非全家桶](http://jets.idejihuo.com/) | IDEA激活码                   |
+| https://cron.qqe2.com/                                       | 时间表达式                   |
+| https://symbol.bqrdh.com/ascii-art/generator                 | 符号图书馆 Ascii字符画生成器 |
+
+| 内网穿透                                                     |              |
+| ------------------------------------------------------------ | ------------ |
+| https://www.natfrp.com/#index)                               | 樱花内网穿透 |
+| [NATAPP-内网穿透 基于ngrok的国内高速内网映射工具](https://natapp.cn/) |              |
+
+| 图书                                                         |                    |
+| ------------------------------------------------------------ | ------------------ |
+| [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/) |                    |
+| [SoBooks - 一起分享阅读的乐趣~](https://sobooks.cc/)         | 需要关注微信公众号 |
+| [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.101ml.online/) |                    |
+
