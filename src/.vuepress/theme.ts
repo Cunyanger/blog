@@ -28,9 +28,10 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "一切将变得更好",
   displayFooter: true,
-
+  // 关闭github编辑链接
+  editLink: false,
   // 博客相关
   blog: {
     description: "拥有从来是侥幸，人生起落是无常",

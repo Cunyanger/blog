@@ -18,17 +18,19 @@ tag:
 sticky: true
 ---
 
-| 工具类                                                       |                   |
-| ------------------------------------------------------------ | ----------------- |
-| https://www.coderjia.cn/archives/dba3f94c-a021-468a-8ac6-e840f85867ea | Docker 国内镜像源 |
-| https://pixpinapp.com/                                       | Pinpix 截图       |
-| https://www.beijingtime.com.cn/                              | 北京时间          |
-| https://next.itellyou.cn/                                    | 官方镜像下载      |
-| [Github Proxy 文件代理加速](https://github.akams.cn/)        | Github 下载加速   |
-| https://greasyfork.org/zh-CN                                 | 油猴脚本          |
-| [PicList](https://piclist.cn/)                               | PicGo 升级        |
-| https://www.cnblogs.com/jopny/p/window_office_onekey_activate_free.html | Windows 激活      |
-|                                                              |                   |
+| 工具类                                                       |                           |
+| ------------------------------------------------------------ | ------------------------- |
+| https://www.coderjia.cn/archives/dba3f94c-a021-468a-8ac6-e840f85867ea | Docker 国内镜像源         |
+| https://pixpinapp.com/                                       | Pinpix 截图               |
+| https://www.beijingtime.com.cn/                              | 北京时间                  |
+| https://next.itellyou.cn/                                    | 官方镜像下载              |
+| [Github Proxy 文件代理加速](https://github.akams.cn/)        | Github 下载加速           |
+| https://greasyfork.org/zh-CN                                 | 油猴脚本                  |
+| [PicList](https://piclist.cn/)                               | PicGo 升级                |
+| https://www.cnblogs.com/jopny/p/window_office_onekey_activate_free.html | Windows 激活              |
+| [PKMer_PKMer](https://pkmer.cn/)                             | Obsidian插件、使用社区    |
+| [瓦特工具箱(Steam++官网) - Watt Toolkit](https://steampp.net/) | Steam、Github加速         |
+| [Steamcommunity 302 Ver.13.0.02 – Dogfight360](https://www.dogfight360.com/blog/18682/) | Steam、Github加速（简洁） |
 
 
 
