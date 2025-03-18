@@ -52,6 +52,7 @@ export default navbar([
         children: [
           { text: "活着", icon: "book", link: "To Live" },
           { text: "1984", icon: "book", link: "1984" },
+          { text: "百年孤独", icon: "book", link: "1984" },
         ],
       },
     ],
