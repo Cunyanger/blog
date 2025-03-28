@@ -9,5 +9,12 @@ export default sidebar({
       link: "cyber/",
       children: "structure",
     },
+    {
+      text: "日常小记",
+      icon: "laptop-code",
+      prefix: "daily/",
+      link: "daily/",
+      children: "structure",
+    },
   ],
 });

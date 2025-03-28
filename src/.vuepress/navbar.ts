@@ -30,7 +30,8 @@ export default navbar([
         icon: "book",
         prefix: "social_sciences/",
         children: [
-          { text: "谈判", icon: "book", link: "Freakonomics" },
+          { text: "谈判", icon: "book", link: "Everything is Negotiable" },
+          { text: "人性的弱点", icon: "lucide:book-heart", link: "Flow" },
           { text: "蛤蟆先生去看心理医生", icon: "lucide:book-heart", link: "Mr. Toad Goes to Therapy" },
           { text: "心流", icon: "lucide:book-heart", link: "Flow" },
           { text: "自控力", icon: "lucide:book-heart", link: "The Willpower Instinct" },

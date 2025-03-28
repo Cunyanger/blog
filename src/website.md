@@ -16,17 +16,21 @@ tag:
   - 使用指南
 # 此页面会在文章列表置顶
 sticky: true
+sidebar: false
+lastUpdated: false
+contributors: false
 ---
 
 ## 身体和灵魂总有一个在路上
 
-| 图书媒体                                                                             |                      |
-| ------------------------------------------------------------------------------------ | -------------------- |
-| [AnyKnew - 效率资讯 - 高效读资讯, 5 分钟遍历全网热点](https://www.anyknew.com/#/)    |                      |
-| [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/)                  |                      |
-| [SoBooks - 一起分享阅读的乐趣~](https://sobooks.cc/)                                 | 需要关注微信公众号   |
-| [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.101ml.online/) | 使用客户端可以不翻墙 |
-| [煎蛋 - 地球上没有新鲜事](https://jandan.net/?ref=www.tboxn.com)                     |                      |
+| 图书媒体                                                     |                                  |
+| ------------------------------------------------------------ | -------------------------------- |
+| [AnyKnew - 效率资讯 - 高效读资讯, 5 分钟遍历全网热点](https://www.anyknew.com/#/) |                                  |
+| [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/) |                                  |
+| [SoBooks - 一起分享阅读的乐趣~](https://sobooks.cc/)         | 需要关注微信公众号               |
+| [Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。](https://zh.101ml.online/) | 使用客户端可以不翻墙             |
+| [煎蛋 - 地球上没有新鲜事](https://jandan.net/?ref=www.tboxn.com) |                                  |
+| [Hello 算法](https://www.hello-algo.com/)                    | 超棒的数据结构与算法的Github项目 |
 
 | 机场、加速                                                                              |                                    |
 | --------------------------------------------------------------------------------------- | ---------------------------------- |
