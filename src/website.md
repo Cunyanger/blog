@@ -48,17 +48,19 @@ contributors: false
 
 ## 善用工具才得以逃脱诸般牢笼
 
-| 工具类                                                                                       |                      |
-| -------------------------------------------------------------------------------------------- | -------------------- |
-| https://pixpinapp.com/                                                                       | Pinpix 截图          |
-| https://www.beijingtime.com.cn/                                                              | 北京时间             |
-| [NEXT, ITELLYOU](https://next.itellyou.cn/)                                                  | 系统官方镜像下载     |
-| https://greasyfork.org/zh-CN                                                                 | 油猴脚本             |
-| [PicList](https://piclist.cn/)                                                               | PicGo 升级版         |
-| [voidtools](https://www.voidtools.com/zh-cn/?ref=www.tboxn.com)                              |                      |
-| [Office Tool Plus 一键部署 Office](https://otp.landian.vip/zh-cn/?ref=www.tboxn.com)         |                      |
+| 工具类                                                       |                      |
+| ------------------------------------------------------------ | -------------------- |
+| https://pixpinapp.com/                                       | PixPin 截图          |
+| https://www.beijingtime.com.cn/                              | 北京时间             |
+| [NEXT, ITELLYOU](https://next.itellyou.cn/)                  | 系统官方镜像下载     |
+| https://greasyfork.org/zh-CN                                 | 油猴脚本             |
+| [PicList](https://piclist.cn/)                               | PicGo 升级版         |
+| [voidtools](https://www.voidtools.com/zh-cn/?ref=www.tboxn.com) |                      |
+| [Office Tool Plus 一键部署 Office](https://otp.landian.vip/zh-cn/?ref=www.tboxn.com) | Office 下载和破解    |
 | [WizTree - The Fastest Disk Space Analyzer](https://www.diskanalyzer.com/?ref=www.tboxn.com) | 电脑磁盘空间分析软件 |
-|                                                                                              |                      |
+|                                                              |                      |
+
+
 
 | 素材类                                                                     |                                          |
 | -------------------------------------------------------------------------- | ---------------------------------------- |
@@ -67,20 +69,24 @@ contributors: false
 | https://www.toptal.com/designers/subtlepatterns/                           | Free textures for your next web project] |
 | [ByteDance IconPark](https://iconpark.oceanengine.com/home)                | 字节跳动官方素材库                       |
 
-| 开发                                                                                    |                               |
-| --------------------------------------------------------------------------------------- | ----------------------------- |
-| [Maven Repository: Search/Browse/Explore](https://mvnrepository.com/)                   | Maven 仓库                    |
+| 开发                                                         |                               |
+| ------------------------------------------------------------ | ----------------------------- |
+| [Maven Repository: Search/Browse/Explore](https://mvnrepository.com/) | Maven 仓库                    |
 | [阿里巴巴开源镜像站-OPSX 镜像站-阿里云开发者社区](https://developer.aliyun.com/mirror/) |                               |
-| [makeapie echarts 社区图表可视化案例](https://www.makeapie.cn/echarts?queryStr=3D)      | 可视化社区，大屏 echart 素材  |
-| [JetBrains 产品激活码 正版 IDE 激活码 非全家桶](http://jets.idejihuo.com/)              | IDEA 激活码                   |
-| https://cron.qqe2.com/                                                                  | 时间表达式                    |
-| https://symbol.bqrdh.com/ascii-art/generator                                            | 符号图书馆 Ascii 字符画生成器 |
-| https://www.coderjia.cn/archives/dba3f94c-a021-468a-8ac6-e840f85867ea                   | Docker 国内镜像源             |
+| [makeapie echarts 社区图表可视化案例](https://www.makeapie.cn/echarts?queryStr=3D) | 可视化社区，大屏 echart 素材  |
+| [JetBrains 产品激活码 正版 IDE 激活码 非全家桶](http://jets.idejihuo.com/) | IDEA 激活码                   |
+| https://cron.qqe2.com/                                       | 时间表达式                    |
+| https://symbol.bqrdh.com/ascii-art/generator                 | 符号图书馆 Ascii 字符画生成器 |
+| https://www.coderjia.cn/archives/dba3f94c-a021-468a-8ac6-e840f85867ea | Docker 国内镜像源             |
+| https://patorjk.com/software/taag/                           | 字符画                        |
 
-| 内网穿透                                                                |              |
-| ----------------------------------------------------------------------- | ------------ |
-| https://www.natfrp.com/#index)                                          | 樱花内网穿透 |
-| [NATAPP-内网穿透 基于 ngrok 的国内高速内网映射工具](https://natapp.cn/) |              |
+
+
+| 内网穿透                                                     |                  |
+| ------------------------------------------------------------ | ---------------- |
+| https://www.natfrp.com/#index)                               | 樱花内网穿透     |
+| [NATAPP-内网穿透 基于 ngrok 的国内高速内网映射工具](https://natapp.cn/) |                  |
+| https://user.zeronews.cc/                                    | ZeroNews内网穿透 |
 
 ---
 
@@ -88,11 +94,11 @@ contributors: false
 
 | 影音类                                        |                           |
 | --------------------------------------------- | ------------------------- |
-| https://www.gyg.la/                           | 无名小站                  |
+| https://www.gyg.la/                           | 观影（原无名小站）        |
 | http://www.wmdz.com                           | 电视盒子 APP              |
 | https://sway.cloud.microsoft/1zyVegf0n3cHdR8o | Switch520(老佛爷付过钱了) |
 | https://www.ncat21.com/                       | 网飞猫                    |
-| [方格音乐](http://fonger.top/)                | 音乐                      |
+| ~~[方格音乐](http://fonger.top/)~~            | ~~音乐~~                  |
 
 ---
 

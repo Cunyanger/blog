@@ -13,8 +13,6 @@ sticky: true
 
 ---
 
-github 作为云存储，jsDeliv 作为 CDN，PicGo 充作为图片 git push 工具
-
 <!-- more -->
 
 **联网情况下，以管理员模式启动PowerShell,复制以下命令到Powershell窗口, 回车**
